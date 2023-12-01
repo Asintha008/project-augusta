@@ -1,0 +1,43 @@
+****************************AUGUSTA INTERNATIONAL PRIMARY SCHOOL MANAGEMNET SYSTEM*******************************
+
+
+**DEVELOPED BY GROUP NO 14 MEMBERS**
+
+DON'T FORGET TO CREATE A DATABASE NAMING "db_sars" AND IMPORT THE DATBASE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>> DATABASE FILE WHICH IS "db_sars.sql" IS INSIDE "DATABASE" FOLDER  <<
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+---------------------------------------------------------------------------------------------------------------------------
+
+**STUDENT LOGIN DETAILS**
+
+ > Student can login to the dashboard by register with email and password.
+
+EMAIL :dumi@gmail.com
+PASSWORD : 123
+
+---------------------------------------------------------------------------------------------------------------------------
+
+**TEACHER LOGIN DETAILS**
+
+ > Teacher can login to the dashboard by register with email and password.
+
+EMAIL :nethmienya@gmail.com
+PASSWORD : 123
+
+---------------------------------------------------------------------------------------------------------------------------
+
+**ADMIN LOGIN DETAILS**
+
+Username : admin
+Password : admin
+
+ > Admin can change the password after login to dashboard and enter the old password.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+#THANK YOU FOR DOWNLOADING
